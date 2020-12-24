@@ -1,4 +1,4 @@
 git add *
-git commit -m "%date% %time%: Updated By MS"
+git commit -m "%date% %time%: updated by maohuawei windows"
 git push
 exit
